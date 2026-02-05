@@ -12,6 +12,12 @@
 
 - Full-stack / DevOps
 
+### Nabi (2026.01 ~ )
+
+> agi
+
+- Full-stack / DevOps
+
 ---
 
 ## Tech Stack
