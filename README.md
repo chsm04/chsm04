@@ -1,20 +1,8 @@
-> *"Claude Code 없이 코딩하던 시절로 돌아갈 수 없다"*
->
-> *— 이 README도 Claude Code가 만들었습니다*
-
----
-
 ## Project
 
 ### Novel Lab (2025.09 ~ )
 
 > AI Agent 기반 소설 집필 앱
-
-- Full-stack / DevOps
-
-### Nabi (2026.01 ~ )
-
-> agi
 
 - Full-stack / DevOps
 
