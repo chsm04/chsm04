@@ -27,7 +27,9 @@
 
 <br>
 
----
+[![Tokscale Stats](https://tokscale.ai/api/embed/chsm04/svg?template=graph&color=blue&tokens=compact&cost=compact)](https://tokscale.ai/u/chsm04)
+
+<br>
 
 <div align="center">
 
